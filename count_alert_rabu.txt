@@ -1,0 +1,34 @@
+SCAN UPnP service discover attempt 50
+BAD-TRAFFIC same SRC/DST 107
+WEB-MISC Invalid HTTP Version String 73
+WEB-MISC SSLv2 Client_Hello with pad Challenge Length overflow attempt 4
+NETBIOS SMB Session Setup AndX request unicode username overflow attempt 2
+NETBIOS SMB IPC$ unicode share access 167
+COMMUNITY WEB-MISC mod_jrun overflow attempt 1247
+ICMP Destination Unreachable Port Unreachable 169
+WEB-MISC PCT Client_Hello overflow attempt 125
+INFO web bug 0x0 gif attempt 3171
+ATTACK-RESPONSES 403 Forbidden 32
+ICMP Destination Unreachable Communication with Destination Host is Administratively Prohibited 26
+SMTP Client_Hello overflow attempt 6
+DNS SPOOF query response with TTL of 1 min. and no authority 210
+WEB-MISC SSLv3 invalid data version attempt 22
+ICMP Destination Unreachable Host Unreachable 37
+WEB-CGI wrap access 9
+POLICY FTP anonymous login attempt 1
+WEB-CGI redirect access 26
+ICMP Destination Unreachable Fragmentation Needed and DF bit was set 2
+WEB-IIS encoding access 4
+WEB-MISC http directory traversal 2
+WEB-CGI calendar access 1
+WEB-MISC weblogic/tomcat .jsp view source attempt 81
+WEB-MISC /doc/ access 7
+WEB-ATTACKS rm command attempt 1
+WEB-MISC apache directory disclosure attempt 2
+ICMP Echo Reply 48
+ICMP PING Cisco Type.x 5
+ICMP PING 84
+ICMP PING Windows 24
+ICMP PING *NIX 55
+ICMP PING BSDtype 50
+WEB-ATTACKS netcat command attempt 1

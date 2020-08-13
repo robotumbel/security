@@ -1,0 +1,34 @@
+ICMP Destination Unreachable Port Unreachable 352
+BAD-TRAFFIC same SRC/DST 123
+NETBIOS SMB IPC$ unicode share access 160
+SCAN UPnP service discover attempt 296
+WEB-MISC SSLv2 Client_Hello with pad Challenge Length overflow attempt 6
+COMMUNITY WEB-MISC mod_jrun overflow attempt 935
+ATTACK-RESPONSES 403 Forbidden 37
+WEB-MISC PCT Client_Hello overflow attempt 107
+WEB-MISC Invalid HTTP Version String 286
+DNS SPOOF query response with TTL of 1 min. and no authority 176
+INFO web bug 0x0 gif attempt 3925
+POLICY FTP anonymous login attempt 1
+WEB-MISC SSLv3 invalid data version attempt 10
+WEB-CGI wrap access 9
+WEB-CGI campus access 1
+SMTP Client_Hello overflow attempt 6
+ICMP Destination Unreachable Communication with Destination Host is Administratively Prohibited 29
+WEB-CGI redirect access 15
+WEB-MISC weblogic/tomcat .jsp view source attempt 172
+WEB-PHP IGeneric Free Shopping Cart page.php access 4
+WEB-ATTACKS rm command attempt 2
+WEB-MISC /doc/ access 21
+NETBIOS SMB Session Setup AndX request unicode username overflow attempt 2
+WEB-ATTACKS id command attempt 7
+ICMP PING Cisco Type.x 25
+ICMP PING 65
+ICMP Echo Reply 65
+ICMP PING *NIX 8
+SNMP request tcp 160
+SNMP AgentX/tcp request 160
+ICMP Destination Unreachable Host Unreachable 453
+SCAN Amanda client version request 1
+ICMP PING NMAP 32
+ICMP Destination Unreachable Fragmentation Needed and DF bit was set 1
